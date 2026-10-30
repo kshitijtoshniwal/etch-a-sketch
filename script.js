@@ -19,7 +19,7 @@ function createGrid(size) {
     }
 }
 
-createGrid(4);
+createGrid(16);
 
 resizeButton.addEventListener("click", () => {
     const input = prompt("Enter the number of squares per side (1–100):");

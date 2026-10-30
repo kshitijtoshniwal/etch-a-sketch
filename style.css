@@ -17,8 +17,6 @@ h1 {
 
 #grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(4, 1fr);
     width: 600px;
     height: 600px;
     margin: 0 auto;
